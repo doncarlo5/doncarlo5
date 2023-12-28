@@ -1,4 +1,22 @@
-### Hi there 👋
+### Welcome to my 𝔾𝕀𝕋 
+
+#### ➤ I'm a fullstack developer.
+
+- 📚 Course : I’m currently learning React
+- 💻 System : Working on MacOS and Windows
+- 📱 App : Loving clear and optimize app
+- 🏅 Sports : tennis, swimming, gym
+- 👀 Fun fact : Before coding, I was a _businessman_
+
+
+My motto : `trust the process`
+
+
+> [!NOTE]
+> 👤 Check out my [LinkedIn](https://www.linkedin.com/in/julienthomaspro/)
+
+
+
 
 <!--
 **doncarlo5/doncarlo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
