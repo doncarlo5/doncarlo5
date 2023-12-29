@@ -1,5 +1,9 @@
 ### Welcome to my 𝔾𝕀𝕋 
 
+![hippo](https://78.media.tumblr.com/677ea635b42e0a4f3ebc6372f2942d02/tumblr_p3a9k0tc7k1qenrveo1_500.gif)
+
+
+
 #### ➤ I'm a fullstack developer.
 
 - 📚 Course : I’m currently learning React
