@@ -6,14 +6,14 @@
 
 #### ➤ I'm a fullstack developer.
 
-- 📚 Course : I’m currently learning React
+- 📚 Course : Finished a bootcamp and aware of new features
 - 💻 System : Working on MacOS and Windows
 - 📱 App : Loving clear and optimize app
 - 🏅 Sports : tennis, swimming, gym
 - 👀 About me : Before coding, I was a _businessman_
 
 
-My motto : `trust the process`
+📢 My motto : `trust the process`
 
 
 > [!NOTE]
