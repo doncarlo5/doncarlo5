@@ -6,7 +6,6 @@
 
 #### ➤ I'm a fullstack developer.
 
-- 📚 Course : Finished a bootcamp and aware of new features
 - 💻 System : Working on MacOS and Windows
 - 📱 App : Loving clear and optimize app
 - 🏅 Sports : tennis, swimming, gym
