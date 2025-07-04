@@ -9,8 +9,6 @@
 - 💻 System : Working on MacOS and Windows
 - 📱 App : Loving clear and optimize app
 - 🏅 Sports : tennis, swimming, gym
-- 👀 About me : Before coding, I was a _businessman_
-
 
 📢 My motto : `trust the process`
 
